@@ -43,7 +43,7 @@ function render(variables = {}) {
           
             <li><a href="https://github.com/${variables.github}"><i class="bi bi-github"></i></a></li>
             <li><a href="https://linkedin.com/${variables.linkedin}"><i class="bi bi-linkedin"></i></a></li>
-            <li><a href="https://instagram.com/${variables.linkedin}"><i class="bi bi-instagram"></i></a></li>
+            <li><a href="https://instagram.com/${variables.instagram}"><i class="bi bi-instagram"></i></a></li>
           </ul>
         </div>
     `;
